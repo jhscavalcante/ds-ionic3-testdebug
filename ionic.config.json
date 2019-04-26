@@ -1,5 +1,7 @@
 {
   "name": "testdebug",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
